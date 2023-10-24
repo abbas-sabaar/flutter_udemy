@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417092590161",
+    "project_id": "flutterudemy-6df20",
+    "storage_bucket": "flutterudemy-6df20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417092590161:android:4f217a00318bb8895e3670",
+        "android_client_info": {
+          "package_name": "com.example.flutter_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417092590161-cb18rmk4be4gaq6g12m1gdpub1t8apq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlkKSPSx3BjNw58HV59hZa2MD423KUCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417092590161-cb18rmk4be4gaq6g12m1gdpub1t8apq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
